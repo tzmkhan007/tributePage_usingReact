@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tributePage_usingReact/static/css/main.20b9db1f.css",
+    "main.js": "/tributePage_usingReact/static/js/main.196d797e.js",
+    "index.html": "/tributePage_usingReact/index.html",
+    "main.20b9db1f.css.map": "/tributePage_usingReact/static/css/main.20b9db1f.css.map",
+    "main.196d797e.js.map": "/tributePage_usingReact/static/js/main.196d797e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20b9db1f.css",
+    "static/js/main.196d797e.js"
+  ]
+}
